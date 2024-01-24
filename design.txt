@@ -8,5 +8,9 @@ The sources I used were the assets, resources and images packet that Professor K
 
 Some tradeoffs I had to make were for loading new puzzle files, I cleared my turtlelist of images and also the tile list for the puz file and was able to empty these lists and then add in the new ones, but could not figure out how to physically remove the images from the puzzle area only without resetting the entire board in time. So I drew a white box over the old puzzle to "erase" the old one. Another tradeoff was my original idea was to have three classes, one for the game board, another for the tiles and the third for the game play. I had a hard time having my game play class access the attributes in the other two classes, so to keep moving I ended up making tile placement a longer class which handles tiles and game play. 
 
+<<<<<<< HEAD
 
 
+=======
+I also met with and got advice from the TA's!  
+>>>>>>> 255755975098f51ac5ab5b1f43f0ba01526e4085
